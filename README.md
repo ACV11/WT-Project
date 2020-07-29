@@ -1,5 +1,5 @@
 # WT-Project
-This repository contains files for a music streaming website.
+This repository contains files for a music service website. There are a limited number of songs in the database. 
 
 The page wtas.html is the home page of the website. The CSS styling for this page is main.css
 
